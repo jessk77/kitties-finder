@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kitties-finder/static/css/main.f83327e2.chunk.css",
+    "main.js": "/kitties-finder/static/js/main.c8fe35f1.chunk.js",
+    "main.js.map": "/kitties-finder/static/js/main.c8fe35f1.chunk.js.map",
+    "runtime-main.js": "/kitties-finder/static/js/runtime-main.525a9ccb.js",
+    "runtime-main.js.map": "/kitties-finder/static/js/runtime-main.525a9ccb.js.map",
+    "static/js/2.0ff39336.chunk.js": "/kitties-finder/static/js/2.0ff39336.chunk.js",
+    "static/js/2.0ff39336.chunk.js.map": "/kitties-finder/static/js/2.0ff39336.chunk.js.map",
+    "index.html": "/kitties-finder/index.html",
+    "static/css/main.f83327e2.chunk.css.map": "/kitties-finder/static/css/main.f83327e2.chunk.css.map",
+    "static/js/2.0ff39336.chunk.js.LICENSE.txt": "/kitties-finder/static/js/2.0ff39336.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.525a9ccb.js",
+    "static/js/2.0ff39336.chunk.js",
+    "static/css/main.f83327e2.chunk.css",
+    "static/js/main.c8fe35f1.chunk.js"
+  ]
+}
